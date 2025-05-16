@@ -46,5 +46,3 @@ namespace ShoppingNightMongo.Services.ProductServices
         }
     }
 }
-//deneme
-//deneme2
